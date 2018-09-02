@@ -1,0 +1,9 @@
+D:\Projects\Binary2Ascii\Binary2Ascii\bin\Debug\netcoreapp2.1\Binary2Ascii.deps.json
+D:\Projects\Binary2Ascii\Binary2Ascii\bin\Debug\netcoreapp2.1\Binary2Ascii.dll
+D:\Projects\Binary2Ascii\Binary2Ascii\bin\Debug\netcoreapp2.1\Binary2Ascii.pdb
+D:\Projects\Binary2Ascii\Binary2Ascii\obj\Debug\netcoreapp2.1\Binary2Ascii.csprojAssemblyReference.cache
+D:\Projects\Binary2Ascii\Binary2Ascii\obj\Debug\netcoreapp2.1\Binary2Ascii.csproj.CoreCompileInputs.cache
+D:\Projects\Binary2Ascii\Binary2Ascii\obj\Debug\netcoreapp2.1\Binary2Ascii.AssemblyInfoInputs.cache
+D:\Projects\Binary2Ascii\Binary2Ascii\obj\Debug\netcoreapp2.1\Binary2Ascii.AssemblyInfo.cs
+D:\Projects\Binary2Ascii\Binary2Ascii\obj\Debug\netcoreapp2.1\Binary2Ascii.dll
+D:\Projects\Binary2Ascii\Binary2Ascii\obj\Debug\netcoreapp2.1\Binary2Ascii.pdb

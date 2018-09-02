@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "Binary2Ascii.Cmd": {
+      "commandName": "Project"
+    },
+    "Binary2Ascii.Cmd -s": {
+      "commandName": "Project",
+      "commandLineArgs": "-s \"test\""
+    },
+    "Binary2Ascii.Cmd (7 bit)": {
+      "commandName": "Project",
+      "commandLineArgs": "\"1101000 1101001\""
+    },
+    "Binary2Ascii.Cmd (8 bit)": {
+      "commandName": "Project",
+      "commandLineArgs": "\"01000010 01011001 01000101\""
+    },
+    "Binary2Ascii.Cmd test1": {
+      "commandName": "Project",
+      "commandLineArgs": "\"010101000111 011101101111001 0000001101111 0110011000100 000011100110111 000001100001 1011001000110 0101011100110 100100000\""
+    }
+  }
+}
